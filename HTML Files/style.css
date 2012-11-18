@@ -1,0 +1,7 @@
+body {font-family:Helvetica; color:#000033 ; background:#33CCFF;}
+
+.views {font-family:Times; color:#66FF66; list-style-type:lower-alpha;}
+li {border: solid thin black; 
+margin: 5px; padding: 5px; background: yellow;}
+
+

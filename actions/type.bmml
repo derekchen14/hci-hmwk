@@ -1,0 +1,201 @@
+<mockup version="1.0" skin="sketch" measuredW="946" measuredH="511" mockupW="931" mockupH="500">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="11" w="850" h="500" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="848" y="49" w="-1" h="462" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="11" w="850" h="38" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Icon" x="113" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>./assets/icon_Undo.png%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Icon" x="345" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>SaveIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Icon" x="381" y="16" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>JumpOutIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="479" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>SquaredPlusIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Icon" x="806" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>GearIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::PointyButton" x="28" y="17" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <direction>left</direction>
+        <text>Library</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="__group__" x="519" y="14" w="160" h="32" measuredW="160" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="64" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <color>0</color>
+            <icon>TagIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="96" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="36">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <color>0</color>
+            <icon>CutIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="32" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="36">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <color>0</color>
+            <icon>PencilIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="36">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <color>0</color>
+            <icon>WriteIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="128" y="0" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="36">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <color>0</color>
+            <icon>Trash2Icon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Icon" x="144" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>./assets/icon_Redo.png%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="694" y="20" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Changes%20saved</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Icon" x="408" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>./assets/icon_Microphone.png%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="__group__" x="202" y="18" w="88" h="24" measuredW="88" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="31" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="42">
+          <controlProperties>
+            <color>0</color>
+            <icon>ShapesIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="42">
+          <controlProperties>
+            <color>0</color>
+            <icon>BulletsIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="64" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="42">
+          <controlProperties>
+            <color>0</color>
+            <icon>ShareIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::IconLabel" x="898" y="441" w="-1" h="-1" measuredW="48" measuredH="70" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>13369344</color>
+        <href>Main%26bm%3BMain.bmml%26bm%3BMain.bmml%26bm%3BMain.bmml</href>
+        <icon>HomeMobileIcon%7Clarge</icon>
+        <labelPosition>bottom</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22883%2C430%2C931%2C500%22%20href%3D%22Main.bmml%22%20alt%3D%22Main%22%20id%3D%2244%22/%3E</map>
+        <size>14</size>
+        <text>Main</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Paragraph" x="56" y="119" w="387" h="360" measuredW="200" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident.%20Sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%0A%20%0AMauris%20a%20consectetur%20odio.%20Nam%20malesuada%20pellentesque%20leo%2C%20vel%20molestie%20ligula%20egestas%20aliquam.%20Etiam%20sed%20turpis%20nisl.%20Integer%20tellus%20mi%2C%20gravida%20in%20imperdiet%20quis%2C%20tempus%20et%20erat.%20Nullam%20sagittis%20lacus%20et%20mauris%20auctor%20pellentesque.%20Nam%20sit%20amet%20urna%20eu%20mauris%20interdum%20commodo%20nec%20sit%20amet%20nulla.%20Pellentesque%20sapien%20purus%2C%20laoreet%20in%20vehicula%20a%2C%20pharetra%20pellentesque%20erat.%0A%20%0AAliquam%20sagittis%20libero%20at%20purus%20tempus%20eget%20tempor%20nunc%20viverra.%20Proin%20eu%20leo%20nulla.%20Vestibulum%20eget%20enim%20sit%20amet%20magna%20cursus%20auctor%20vel%20ut%20risus.%20Donec%20consectetur%20magna%20ut%20urna%20volutpat%20consectetur.%20Duis%20commodo%20nunc%20ut%20erat%20euismod%20imperdiet%20sollicitudin%20neque%20sollicitudin.%20Etiam%20vel%20metus%20dui%2C%20ut%20congue%20justo.%20Aenean%20rutrum%20commodo%20tellus%2C%20et%20congue%20felis%20auctor%20sit%20amet.%20Nunc%20pulvinar%20suscipit%20tempus.%20Mauris%20nec%20lacus%20elit.%20Nullam%20blandit%20tellus%20nulla.%20Curabitur%20sit%20amet%20pellentesque%20nibh.%20Nullam%20sem%20quam%2C%20lacinia%20at%20faucibus%20vel%2C%20porttitor%20at%20lacus.%20Sed%20vitae%20sem%20libero.%20Nunc%20a%20diam%20sit%20amet%20augue%20feugiat%20blandit%20in%20eleifend%20erat.</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Title" x="256" y="54" w="408" h="-1" measuredW="397" measuredH="50" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>13421772</color>
+        <text>YtD%20Revenue%20Analysis</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::LineChart" x="464" y="121" w="342" h="281" measuredW="187" measuredH="175" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::VCurly" x="423" y="376" w="252" h="103" measuredW="180" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <italic>true</italic>
+        <text>%20%0A%20Good%20insights%20here%2C%20the%20other%20parts%20can%20be%20taken%20out.%20%20The%20graph%20should%20be%20revised%20to%20include%20Q3%20results.</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Arrow" x="105" y="199" w="10" h="17" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="98" y="242" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <text>%28Blinking%20cursor%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="__group__" x="534" y="56" w="106" h="47" measuredW="106" measuredH="47" zOrder="21" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="54" y="26" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="0" locked="false" isInGroup="56">
+          <controlProperties>
+            <color>10027008</color>
+            <text>%28Typing%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="0" y="0" w="47" h="40" measuredW="150" measuredH="100" zOrder="1" locked="false" isInGroup="56">
+          <controlProperties>
+            <color>13576743</color>
+            <curvature>-1</curvature>
+            <leftArrow>false</leftArrow>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="380" y="485" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>-%20Page%206%20of%2014%20-%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,172 @@
+<mockup version="1.0" skin="sketch" measuredW="948" measuredH="511" mockupW="933" mockupH="500">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="11" w="850" h="500" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="848" y="49" w="-1" h="462" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="11" w="850" h="38" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="380" y="485" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20Page%206%20of%2014%20-%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Icon" x="113" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>./assets/icon_Undo.png%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Icon" x="345" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>SaveIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Icon" x="381" y="16" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>JumpOutIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Icon" x="15" y="479" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>SquaredPlusIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Icon" x="806" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>GearIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::PointyButton" x="28" y="17" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <direction>left</direction>
+        <text>Library</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="833" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>PushPinIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Icon" x="144" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>./assets/icon_Redo.png%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="694" y="20" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save%20Changes</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Icon" x="408" y="18" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>./assets/icon_Microphone.png%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="__group__" x="202" y="18" w="88" h="24" measuredW="88" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="31" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="42">
+          <controlProperties>
+            <color>0</color>
+            <icon>ShapesIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="42">
+          <controlProperties>
+            <color>0</color>
+            <icon>BulletsIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="64" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="42">
+          <controlProperties>
+            <color>0</color>
+            <icon>ShareIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Icon" x="583" y="14" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <icon>TagIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Icon" x="615" y="14" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <icon>CutIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Icon" x="551" y="14" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <icon>PencilIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Icon" x="519" y="14" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <icon>WriteIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Icon" x="647" y="14" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <icon>Trash2Icon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::IconLabel" x="900" y="441" w="-1" h="-1" measuredW="48" measuredH="70" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <icon>HomeMobileIcon%7Clarge</icon>
+        <labelPosition>bottom</labelPosition>
+        <size>14</size>
+        <state>up</state>
+        <text>Main</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Paragraph" x="56" y="119" w="387" h="360" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Our%20annual%20revenue%20for%20the%20year%20has%20shown%20strong%20positive%20projections%2C%20but%20might%20not%20hold%20steady%20if%20the%20new%20investment%20in%20marketing%20and%20sales%20doesn%27t%20hold.%20%20In%20particular%2C%20we%20are%20at%20risk%20of%20losing%20the%20major%20Young%20and%20Rubicam%20partnership%20which%20could%20lead%20to%20a%20severe%20drop%20in%20traffic.%20%20As%20it%20stands%2C%20the%20market%20for%20Japan%20and%20Southeast%20Asia%20is%20growing%20rapidly%2C%20but%20needs%20more%20spend%20in%20order%20to%20sustain%20its%20current%20growth.%20%20There%27s%20no%20reason%20it%20couldn%27t%20grow%2C%20but%20the%20current%20growth%20rate%20is%20unlikely%20to%20continue.%0A%20%0AOn%20the%20other%20hand%2C%20the%20advertising%20spend%20is%20standing%20at%20%241.4%20million%20year%20to%20date%2C%20so%20our%20margins%20are%20quite%20thin.%20%20There%20is%20an%20argument%20to%20be%20made%20that%20while%20annual%20revenues%20might%20drop%2C%20the%20overall%20profits%20would%20still%20be%20quite%20heathly.%20%20Our%20marketing%20mix%20is%20mostly%20consisting%20of%20television%20ads%20with%20the%20rest%20carefully%20tracked%20through%20online%20spend%2C%20such%20as%20with%20Google%20Adwords%20or%20Microsoft%20AdCenter.%0A%20%0AOne%20possible%20plan%20is%20to%20cut%20out%20the%20television%20ads%20and%20thereby%20reduce%20our%20dependency%20on%20Y%26R.%20%20If%20this%20were%20the%20plan%2C%20we%20would%20be%20more%20dependent%20on%20online%20advertising%20than%20ever%20before.%20%20While%20my%20team%20has%20worked%20to%20develop%20this%20competency%20over%20time%2C%20the%20company%20would%20benefit%20from%20increased%20investment%20in%20training%20and%20hiring%20in%20this%20area.%20%20The%20promised%20return%20on%20investment%20seems%20to%20be%20tremendous%20if%20the%20recent%20new%20hires%20are%20any%20indication.%20%20We%20have%20successfully%20been%20able%20to%20grow%20revenues%20by%20345%25%20with%20little%20to%20no%20marginal%20investment%20in%20television.%20%20In%20conclusion%2C%20my%20recommendation%20would%20be%20to%20move%20away%20from%20TV%20and%20into%20digital.</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Title" x="256" y="54" w="408" h="-1" measuredW="397" measuredH="50" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>YtD%20Revenue%20Analysis</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::LineChart" x="464" y="121" w="342" h="281" measuredW="187" measuredH="175" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::RedX" x="56" y="333" w="360" h="35" measuredW="240" measuredH="104" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::ScratchOut" x="268" y="185" w="175" h="44" measuredW="205" measuredH="107" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::ScratchOut" x="56" y="200" w="270" h="29" measuredW="205" measuredH="107" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::VCurly" x="432" y="376" w="252" h="103" measuredW="180" measuredH="140" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <italic>true</italic>
+        <text>%20%0A%20Good%20insights%20here%2C%20the%20other%20parts%20can%20be%20taken%20out.%20%20The%20graph%20should%20be%20revised%20to%20include%20Q3%20results.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
